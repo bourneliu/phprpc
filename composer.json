@@ -1,0 +1,30 @@
+{
+	"name": "idle-ape/jitphp",
+	"description": "",
+	"version": "1.0.0",
+	"type": "project",
+	"keywords": [
+		"Swoole",
+		"JitPHP"
+	],
+	"homepage": "http://www.idleape.cn",
+	"time": "2019-04-12",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "Bourne",
+            "email": "kingphper@foxmail.com",
+            "homepage": "http://www.idleape.cn",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+    	"email": "kingphper@foxmail.com"
+    },
+    "require": {
+
+    },
+	"autoload": {
+        "psr-4": {"Jit\\":"framework"}
+    }	
+}
