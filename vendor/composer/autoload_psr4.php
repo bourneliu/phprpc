@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Jit\\' => array($baseDir . '/framework'),
+    'Jit\\' => array($baseDir . '/jit/jitphp-framework'),
 );

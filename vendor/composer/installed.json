@@ -1,1 +1,40 @@
-[]
+[
+    {
+        "name": "jit/jitphp-framework",
+        "version": "dev-master",
+        "version_normalized": "9999999-dev",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/idle-ape/Jit.git",
+            "reference": "1b90f42323e8ba29f8fdc8f26fb8cfe3f6343254"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/idle-ape/Jit/zipball/1b90f42323e8ba29f8fdc8f26fb8cfe3f6343254",
+            "reference": "1b90f42323e8ba29f8fdc8f26fb8cfe3f6343254",
+            "shasum": ""
+        },
+        "time": "2019-04-12T00:00:00+00:00",
+        "type": "framework",
+        "installation-source": "source",
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Bourne",
+                "email": "kingphper@foxmail.com",
+                "homepage": "http://www.idleape.cn",
+                "role": "Developer"
+            }
+        ],
+        "description": "Core framework for JitPHP",
+        "homepage": "http://www.idleape.cn",
+        "keywords": [
+            "JitPHP",
+            "framework",
+            "swoole"
+        ]
+    }
+]

@@ -1,5 +1,5 @@
 {
-	"name": "idle-ape/jitphp",
+	"name": "jit/jitphp",
 	"description": "",
 	"version": "1.0.0",
 	"type": "project",
@@ -22,9 +22,9 @@
     	"email": "kingphper@foxmail.com"
     },
     "require": {
-
+        "jit/jitphp-framework": "dev-master"
     },
 	"autoload": {
-        "psr-4": {"Jit\\":"framework"}
+        "psr-4": {"Jit\\":"jit/jitphp-framework"}
     }	
 }

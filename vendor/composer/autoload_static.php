@@ -16,7 +16,7 @@ class ComposerStaticInite92a12589a1db153a9e19039ae36bed2
     public static $prefixDirsPsr4 = array (
         'Jit\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/framework',
+            0 => __DIR__ . '/../..' . '/jit/jitphp-framework',
         ),
     );
 

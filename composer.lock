@@ -1,0 +1,56 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "3d5e028a8cbf3d781234a0815818917a",
+    "packages": [
+        {
+            "name": "jit/jitphp-framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/idle-ape/Jit.git",
+                "reference": "1b90f42323e8ba29f8fdc8f26fb8cfe3f6343254"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/idle-ape/Jit/zipball/1b90f42323e8ba29f8fdc8f26fb8cfe3f6343254",
+                "reference": "1b90f42323e8ba29f8fdc8f26fb8cfe3f6343254",
+                "shasum": ""
+            },
+            "type": "framework",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Bourne",
+                    "email": "kingphper@foxmail.com",
+                    "homepage": "http://www.idleape.cn",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Core framework for JitPHP",
+            "homepage": "http://www.idleape.cn",
+            "keywords": [
+                "JitPHP",
+                "framework",
+                "swoole"
+            ],
+            "time": "2019-04-12T09:31:51+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "jit/jitphp-framework": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
